@@ -1,59 +1,49 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1522495632117" stop="1522495632220">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1522496278950" stop="1522496278962">
   <name>test_login</name>
   <labels/>
   <test-cases>
-    <test-case start="1522495632117" status="passed" stop="1522495632128">
+    <test-case start="1522496278950" status="passed" stop="1522496278953">
       <name>TestLogin.test_login1</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="17916-MainThread"/>
+        <label name="thread" value="1256-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1522495632129" status="failed" stop="1522495632216">
+    <test-case start="1522496278954" status="passed" stop="1522496278957">
       <name>TestLogin.test_login2</name>
-      <failure>
-        <message>AssertionError: assert 0</message>
-        <stack-trace>self = &lt;test_login.TestLogin object at 0x000001CE72890898&gt;
-
-    def test_login2(self):
-&gt;       assert 0
-E       assert 0
-
-scripts\test_login.py:8: AssertionError</stack-trace>
-      </failure>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="17916-MainThread"/>
+        <label name="thread" value="1256-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1522495632217" status="passed" stop="1522495632218">
+    <test-case start="1522496278959" status="passed" stop="1522496278961">
       <name>TestLogin.test_login3</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="17916-MainThread"/>
+        <label name="thread" value="1256-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1522495632219" status="passed" stop="1522495632220">
+    <test-case start="1522496278961" status="passed" stop="1522496278962">
       <name>TestLogin.test_login4</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="17916-MainThread"/>
+        <label name="thread" value="1256-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
