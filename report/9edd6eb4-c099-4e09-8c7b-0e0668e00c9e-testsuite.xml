@@ -1,49 +1,61 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1522496278950" stop="1522496278962">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1522496479595" stop="1522496479604">
   <name>test_login</name>
   <labels/>
   <test-cases>
-    <test-case start="1522496278950" status="passed" stop="1522496278953">
+    <test-case start="1522496479595" status="passed" stop="1522496479598">
       <name>TestLogin.test_login1</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="1256-MainThread"/>
+        <label name="thread" value="5164-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1522496278954" status="passed" stop="1522496278957">
+    <test-case start="1522496479598" status="passed" stop="1522496479600">
       <name>TestLogin.test_login2</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="1256-MainThread"/>
+        <label name="thread" value="5164-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1522496278959" status="passed" stop="1522496278961">
+    <test-case start="1522496479600" status="passed" stop="1522496479601">
       <name>TestLogin.test_login3</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="1256-MainThread"/>
+        <label name="thread" value="5164-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1522496278961" status="passed" stop="1522496278962">
+    <test-case start="1522496479602" status="passed" stop="1522496479603">
       <name>TestLogin.test_login4</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="1256-MainThread"/>
+        <label name="thread" value="5164-MainThread"/>
+        <label name="host" value="DESKTOP-OFFSNT3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1522496479603" status="passed" stop="1522496479604">
+      <name>TestLogin.test_login5</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5164-MainThread"/>
         <label name="host" value="DESKTOP-OFFSNT3"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
