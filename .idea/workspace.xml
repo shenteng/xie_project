@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="332ad8a7-ad65-4042-9a81-e1be40199e22" name="Default" comment="" />
+    <list default="true" id="332ad8a7-ad65-4042-9a81-e1be40199e22" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +21,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="651" />
-    <option name="y" value="99" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="343" />
+    <option name="y" value="91" />
     <option name="width" value="1364" />
     <option name="height" value="882" />
   </component>
@@ -45,6 +48,11 @@
             <path>
               <item name="xie_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="xie_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xie_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xie_project" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,7 +96,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="651" y="99" width="1364" height="882" extended-state="1" />
+    <frame x="343" y="91" width="1364" height="882" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -117,6 +125,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
